@@ -1,0 +1,174 @@
+body{
+    background-color: #21232A;
+    margin: 0px;
+    width: 1400px;
+}
+h1{
+   font-size: 20px;
+   color: white;
+   padding: 9px;
+   margin: 0px;
+   padding-right: 460px;
+}
+h2{
+    color: white;
+    font-size: 48px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.nav{
+    margin: 58.8px 170px 40px 170px;
+    width: 1000px;
+    font-family: sans-serif;
+}
+p{
+    color: white;
+}
+.bold{
+    font-weight: 700;
+}
+.logo{
+    width: 40px;
+    height: 40px;
+}
+.container{
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+}
+.menu{ 
+    margin: 0;
+    padding: 9px 15px;
+    color: white;
+    font-size: 12px;
+}
+.moon{
+    width: 18px;
+    height: 18px;
+    padding: 9px 40px 9px 20px;
+}
+button{
+    padding: 9px 20px;
+    width: 120px;
+    border-radius: 5px;
+    background-color: rgb(74, 10, 192);
+    color: white;
+    border: none;
+    font-family: sans-serif;
+}
+.hero{
+    margin: 30px 170px;
+    width: 1000px;
+}
+.hero-section{
+    width: 640px;
+    font-size: 30px;
+}
+.contact{
+    width: 200px;
+    font-size: 22px;
+    margin: 20px 0px 20px 0px;
+}
+.div{
+    display: flex;
+    justify-content: left;
+    height: 30px;
+    width: 1340px;
+    margin: 0px;
+    padding: 0px;
+}
+#divider{
+    border-bottom: rgb(105, 104, 104) 3px solid;
+}
+div{
+    display: inline-block;
+}
+.div1{
+   width: 170px;
+}
+.div3{
+    width: 1170px;
+    margin: 0px;
+    padding: 0px;
+ }
+ .div2{
+    margin: 0px 10px;
+    padding: 19px 15px;
+    font-size: 15px;
+    width: 150px;
+ }
+ .SERVICES{
+    margin: 90px 170px 90px 150px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+ }
+ .image{
+    width: 60px;
+    height: 60px;
+    padding: 30px 10px;
+ }
+.section1{
+    display: flex;
+}
+ .section{
+    width: 320px;
+ }
+.group{
+    margin: 90px 240px 90px 210px;
+    width: 900px;
+}
+.our-team{
+    display: flex;
+    justify-content: space-between;
+    margin: 90px 200px 50px 200px;
+    width: 1000px;
+}
+.team{
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    height: 100px;
+}
+.team-image{
+    width: 80px;
+    height: 80px;
+    border-radius: 150px;
+    margin: 0px;
+    padding: 0px 7px 0px 0px;
+}
+.text{
+    padding: 10px 0px 0px 20px;
+    margin: 0px;
+    width: 150px;
+    height: 80px;
+}
+.bold{
+    font-size: 23px;
+    font-weight: 700;
+    margin: 0px;
+}
+.contain{
+    background-color:rgb(75, 73, 73);
+    display: flex;
+    justify-content: space-between;
+    width: 1400px;
+    padding: 20px;
+    height: 50px;
+    
+}
+.item{
+    margin: 0px 0px 0px 190px;
+    width: 50px;
+    height: 50px;
+    padding: 0px;
+}
+.item1{
+    width: 30px;
+    height: 30px;
+    margin: 0px;
+    padding: 0px 20px 15px 10px;
+}
+.push{
+    margin-right: 130px;
+}
